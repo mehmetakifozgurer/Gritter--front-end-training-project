@@ -1,0 +1,40 @@
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+body {
+  background-color:rgb(2, 146, 2)
+  }
+/* text design */
+p{
+    color: cornsilk;
+  }
+header{
+    color: rgb(226, 202, 43);
+    text-align: end;
+  }
+  /* navbar design */
+  aside{background-color: rgb(19, 67, 19);
+    display: flex;
+    align-items: flex-start;
+  }
+  /* navbar end */
+  /* link design start */
+  a {
+    color: rgb(226, 202, 43);
+  }
+  a:hover{
+    color: orange;
+  }
+/* link design end */
+
+/* img design start */
+img{
+  max-width: 400px;
+  border-color: greenyellow;
+}
+/* img design end */
