@@ -5,6 +5,10 @@
 ```
 -First version of Gritter has launched.
 ```
+12 April 2023
+```
+-Gritter Design v0.2 with Bootstrap finished.
+```
 ********************
 ### Links
 * [My Patika.dev link](https://app.patika.dev/professor)
